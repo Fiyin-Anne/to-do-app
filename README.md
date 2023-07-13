@@ -13,7 +13,7 @@ A Node.js-based GraphQL API for a Todo List.
 
 1. Install [Docker Compose](https://docs.docker.com/compose/install/) onto the local machine. 
 
-2. Navigate into the `to-do` directory.
+2. Navigate into the `to-do-app` directory.
 
 3. Update the `.env` file with the correct credentials for a local postgres database.
   ```
